@@ -4,7 +4,9 @@
   "description": "Practice",
   
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "akshay saini",
   "license": "ISC",
